@@ -26,25 +26,18 @@ I'm a passionate software developer studying Data Science & Software Engineering
 ## 🛠 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-6A0DAD?style=flat&logo=mysql&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-6A0DAD?style=flat&logo=css3&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-6A0DAD?style=flat&logo=html5&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-6A0DAD?style=flat&logo=mysql&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-6A0DAD?style=flat&logo=css3&logoColor=white)   ![HTML](https://img.shields.io/badge/HTML-6A0DAD?style=flat&logo=html5&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-6A0DAD?style=flat&logo=java&logoColor=white)  
 
 ### Frameworks & Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-6A0DAD?style=flat&logo=jupyter&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-6A0DAD?style=flat&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-6A0DAD?style=flat&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-6A0DAD?style=flat&logo=git&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-6A0DAD?style=flat&logo=firebase&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-6A0DAD?style=flat&logo=amazonaws&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-6A0DAD?style=flat&logo=jupyter&logoColor=white)     ![Git](https://img.shields.io/badge/Git-6A0DAD?style=flat&logo=git&logoColor=white)    
+![MongoDB](https://img.shields.io/badge/MongoDB-6A0DAD?style=flat&logo=mongodb&logoColor=white)      ![MySQL](https://img.shields.io/badge/MySQL-6A0DAD?style=flat&logo=mysql&logoColor=white)   
+![Firebase](https://img.shields.io/badge/Firebase-6A0DAD?style=flat&logo=firebase&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-6A0DAD?style=flat&logo=amazonaws&logoColor=white)  
 
 ### Data Analytics
-![Pandas](https://img.shields.io/badge/Pandas-6A0DAD?style=flat&logo=pandas&logoColor=white)  
-![Numpy](https://img.shields.io/badge/Numpy-6A0DAD?style=flat&logo=numpy&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-6A0DAD?style=flat&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-6A0DAD?style=flat&logo=powerbi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-6A0DAD?style=flat&logo=pandas&logoColor=white)  ![Numpy](https://img.shields.io/badge/Numpy-6A0DAD?style=flat&logo=numpy&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-6A0DAD?style=flat&logo=tableau&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-6A0DAD?style=flat&logo=powerbi&logoColor=white)
 
 ---
 
