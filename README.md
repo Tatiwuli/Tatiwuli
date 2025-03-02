@@ -52,7 +52,7 @@ I'm a passionate software developer studying Data Science & Software Engineering
   🔗 **Build a personalized workout session here:** [Workout Builder](https://workout-builder.streamlit.app/)  
   📂 **GitHub Repository:** [Workout Builder Repo](https://github.com/Tatiwuli/workout-builder/)  
 
-**More projects are pinned below !**
+- **More projects are pinned below !**
 ---
 
 ## 📫 Contact Me
