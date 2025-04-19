@@ -41,9 +41,6 @@ I'm a passionate software developer studying Data Science & Software Engineering
 
 ---
 
-## 👩🏻‍💻 Current Projects
-
-- Developing a **notification system** for a wellness startup in Seoul, working with **Swift, Firebase, MySQL, and Python**.
 
 ## ⚡ Main Projects
 
