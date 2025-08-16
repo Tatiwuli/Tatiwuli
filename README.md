@@ -60,7 +60,7 @@ Primarily work on: API development, ETL Data Pipelines and working on full-stack
 
 - **Personalized Workout Session Builder** – A science-backed tool to create customized workout sessions.
   
-  🔗 **Build a personalized workout session here:** [Workout Builder](https://workout-builder.streamlit.app/)  
+  🔗 **Build a personalized workout session here:** [Workout Builder](https://workout-builder-one.vercel.app/)  
   📂 **GitHub Repository:** [Workout Builder Repo](https://github.com/Tatiwuli/workout-builder/)  
 
 - **More projects are pinned below !**
