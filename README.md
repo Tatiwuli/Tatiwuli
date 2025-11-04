@@ -11,19 +11,26 @@ Primarily work on: API development, ETL Data Pipelines and working on full-stack
 ---
 ## ✨ Facts about me  
 - Rising junior at Minerva University 🌍 , where I study and work on local projects in 6 different countries across semesters.  
-- Former UX Designer (2 years) , where I  learned product ideation, prototyping, and leadership skills I now bring to my tech career.  
+- Worked in UX Design and Event Management ( focused on robotics education) for 2 years , where I  learned product ideation, user experience design, prototyping, and leadership skills I now bring to my tech career.  
 - Hackathon enthusiast: joined 8, won 7 🏆 ; including NASA Space Apps Global Finalist and 3rd place in Health @ CalHacks UC Berkeley.  
-- Diversity isn’t just a "checklist" for me: I’m the child of immigrants in Brazil, grew up across 3 different communities (Brazil, Paraguay and Taiwan) , and became a polyglot (Oi! Hola! 你好! Hi!) that allowed me to meet locals and gain professional experiences around the world.  
+- Diversity isn’t just a "checklist" for me: I grew up across 3 different communities (Brazil, Paraguay and Taiwan) , and became a polyglot (Oi! Hola! 你好! Hi!) that allowed me to work in freelancing , NGOs and companies across  four conntries
 - Once a running-hater → now a running-addict 🏃‍♀️ ,  and fascinated by how physical challenges shape mental strength.  
 
 
 
+### 👩🏻‍💻 Why tech? 
+It's fun and useful to make people's life easier so they can focus on more meaningful tasks,and achieve a greater version of themselves.
+I am working on this vision through multiple ways: 
+- 💪🏻 **Wokout Plan Builder** : Connected LLM to evidence-based hypertrophy knowledge to help fitness starters to plan their workout sessions. 🔗 [Workout Builder](https://workout-builder-one.vercel.app/)  
+- 🛒  **AI Analytics Platform**: Built an autonomous HTML inspection and web scraping platform to scrape qualitative user insights from online foruns, helping user researchers to save 45+ hours of their time and 90% of their budget.
+- To be continued 🫡
+*Feel free to check out other projects below :)
+----
 ### ❤️‍🔥 My Interests
 
 - Obsessed with the strategic and critical thinking behind system design and backend architecture.
 - Fascinated by how frontend and AI-powered features can enhance user experiences and improve lives.
 - Passionate about fitness, nutrition, and optimizing health for both athletic and work performance—especially how wearables and apps integrate these great habits into daily life.
-
 
   
 -----
@@ -53,17 +60,7 @@ Primarily work on: API development, ETL Data Pipelines and working on full-stack
 ![Pandas](https://img.shields.io/badge/Pandas-6A0DAD?style=flat&logo=pandas&logoColor=white)  ![Numpy](https://img.shields.io/badge/Numpy-6A0DAD?style=flat&logo=numpy&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-6A0DAD?style=flat&logo=tableau&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-6A0DAD?style=flat&logo=powerbi&logoColor=white)
 
----
 
-
-## ⚡ Main Projects
-
-- **Personalized Workout Session Builder** – A science-backed tool to create customized workout sessions.
-  
-  🔗 **Build a personalized workout session here:** [Workout Builder](https://workout-builder-one.vercel.app/)  
-  📂 **GitHub Repository:** [Workout Builder Repo](https://github.com/Tatiwuli/workout-builder/)  
-
-- **More projects are pinned below !**
 ---
 
 ## 📫 Contact Me
