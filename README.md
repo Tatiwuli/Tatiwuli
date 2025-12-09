@@ -41,10 +41,12 @@ I find it fascinating to build software that makes people's lives easier so they
 ### ❤️‍🔥 Interests
 
 🏃‍♀️ Once a Running-hater, now a Running-addict
+
 🏋🏻‍♀️ Competed informally in Crossfit for a year and, a hot take - I also love Weightlifting
   *Checkout my Workout Plan Builder 💪🏻: LLM-powered app connected to evidence-based hypertrophy research to help fitness beginners plan effective workout sessions → 🔗 [Try it here](https://workout-builder-one.vercel.app/)*
-  
+
 🕹️ Board games, especially with competitive friends 
+
 ☕ Making and drinking coffee ( sometimes, at a concerning level)
 
   
