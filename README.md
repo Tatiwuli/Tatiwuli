@@ -6,8 +6,10 @@
 
 Software Engineer who builds to solve real problems, not just tech for tech's sake. I work closely with users to design and ship end-to-end applications that actually make their lives easier.
 
-Currently at Minerva University  (Class of 2027), rotating through 6 countries each semester while working on tech projects with local business 🌍. My main background in Software Engineering includes: API development, ETL pipelines, full-stack development with TypeScript & Python, and product thinking.
-Check out my [Tech Stack here](#-tech-stack)
+🎓 Currently at Minerva University  (Class of 2027), rotating through 6 countries each semester while working on tech projects with local business 🌍.
+
+My main background in Software Engineering includes: API development, ETL pipelines, full-stack development with TypeScript & Python, and product thinking.
+Check out my [Tech Stack](#-tech-stack)
 
 ---
 
@@ -15,9 +17,9 @@ Check out my [Tech Stack here](#-tech-stack)
 
 #### 1. Act fast, learn fast
 
-- 💻 Learned **frontend and full-stack from scratch** to build an earnings call summarizer in 1 month, saving each analyst 10 hours weekly [🔗Checkout here](https://github.com/Tatiwuli/financial-summarizer)
-- 🕸️ Taught myself **Python** and created a **web scraper** that saved user researchers 45+ hours and 90% of their budget per research cycle → [🔗Checkout here](https://github.com/Tatiwuli/AI_Analytics_Platform_Demo)
-- 🤖 **Learned to program an robot** with Java for WPILIB library, winning the Innovation in Control Award at FIRST Robotics Competition 2022 in Istanbul, Turkey with my former robotics team #1602 → [🔗Checkout here](https://github.com/Tatiwuli/command-based-2022)
+- 💻 Learned **frontend and full-stack from scratch** to build an earnings call summarizer in 1 month, saving each analyst 10 hours weekly [🔗](https://github.com/Tatiwuli/financial-summarizer)
+- 🕸️ Taught myself **Python** and created a **web scraper** that saved user researchers 45+ hours and 90% of their budget per research cycle [🔗](https://github.com/Tatiwuli/AI_Analytics_Platform_Demo)
+- 🤖 **Learned to program an robot** with Java for WPILIB library, winning the Innovation in Control Award at FIRST Robotics Competition 2022 in Istanbul, Turkey with my former robotics team #1602 [🔗](https://github.com/Tatiwuli/command-based-2022)
 
 - **💬 Fluent in 4 languages** (Oi! Hola! 你好! Hi!), allowing me to work in freelancing, NGOs and companies across four countries
 
@@ -28,7 +30,7 @@ Check out my [Tech Stack here](#-tech-stack)
 - At a data analytics internship, worked closely with the product team to redesign a booking feature projected to increase booking rates by 30%
 
 ### 👩🏻‍💻 Why Software Engineering? 
-I find it genuinely fascinating to build software that makes people's lives easier so they can achieve better versions of themselves. There's something deeply satisfying about solving complex technical challenges in the background—making the impossible possible—while keeping the user experience simple and elegant. The puzzle of balancing technical depth with intuitive design keeps me hooked.
+I find it fascinating to build software that makes people's lives easier so they can achieve better versions of themselves. There's something deeply satisfying about solving complex technical challenges in the background—making the impossible possible—while keeping the user experience simple and elegant. The puzzle of balancing technical depth with intuitive design is challenging but FUN!
 
 *Feel free to check out my starred projects below :)
 ----
