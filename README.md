@@ -4,33 +4,42 @@
 
 # Hi! I am Tatiane 👋
 
-Software Engineer beyond just a "tech guy": Enjoy and experienced in talking closely with users and designing end-to-end applications to solve their problems⌨️ 
+Software Engineer who builds to solve real problems, not just tech for tech's sake. I work closely with users to design and ship end-to-end applications that actually make their lives easier.
 
-Primarily work on: API development, ETL Data Pipelines and working on full-stack development with TypeScript and Python
+Currently at Minerva University  (Class of 2027), rotating through 6 countries each semester while working on tech projects with local business 🌍. My main background in Software Engineering includes: API development, ETL pipelines, full-stack development with TypeScript & Python, and product thinking.
+Check out my [Tech Stack here](## 🛠 Tech Stack) 
 
 ---
+
 ## ✨ Facts about me  
-- Rising junior at Minerva University 🌍 , where I study and work on local projects in 6 different countries across semesters.  
-- Worked in UX Design and Event Management (focused on robotics education) for 2 years, where I learned product ideation, user experience design, prototyping, and leadership skills I now bring to my tech career.  
-- Hackathon enthusiast: joined 8, won 7 🏆 ; including NASA Space Apps Global Finalist and 3rd place in Health @ CalHacks UC Berkeley.  
-- Diversity isn’t just a "checklist" for me: I grew up across 3 different communities (Brazil, Paraguay and Taiwan), and became a polyglot (Oi! Hola! 你好! Hi!) that allowed me to work in freelancing, NGOs and companies across four countries
-- Once a running-hater → now a running-addict 🏃‍♀️, and fascinated by how physical challenges shape mental strength.  
 
+#### 1. Act fast, learn fast
 
+- 💻 Learned **frontend and full-stack from scratch** to build an earnings call summarizer in 1 month, saving each analyst 10 hours weekly [🔗Checkout here](!https://github.com/Tatiwuli/financial-summarizer)
+- 🕸️ Taught myself **Python** and created a **web scraper** that saved user researchers 45+ hours and 90% of their budget per research cycle → [🔗Checkout here](!https://github.com/Tatiwuli/AI_Analytics_Platform_Demo)
+- 🤖 **Learned to program an robot** with Java for WPILIB library, winning the Innovation in Control Award at FIRST Robotics Competition 2022 in Istanbul, Turkey with my former robotics team #1602 → [🔗Checkout here](!https://github.com/Tatiwuli/command-based-2022)
 
-### 👩🏻‍💻 Why tech? 
-It's fun and useful to make people's life easier so they can focus on more meaningful tasks, and achieve a greater version of themselves.
-I am working on this vision through multiple ways: 
-- 💪🏻 **Wokout Plan Builder** : Connected LLM to evidence-based hypertrophy knowledge to help fitness starters to plan their workout sessions. 🔗 [Workout Builder](https://workout-builder-one.vercel.app/)  
-- 🛒  **AI Analytics Platform**: Built an autonomous HTML inspection and web scraping platform to scrape qualitative user insights from online foruns, helping user researchers to save 45+ hours of their time and 90% of their budget.
-- To be continued 🫡
-*Feel free to check out other projects below :)
+- **💬 Polyglot** (Oi! Hola! 你好! Hi!)  that allowed me to work in freelancing, NGOs and companies across four countries
+
+#### 2. Engineer with PM skills 
+
+- Led product ideation and prototyping in <48 hours at 8 hackathons → won 7 🏆 (NASA Space Apps Global Finalist, 3rd @ Health CalHacks UC Berkeley)
+- Joined design from 0 to 1 in all my internship projects—from initial user research to shipped features
+- At a data analytics internship, worked closely with the product team to redesign a booking feature projected to increase booking rates by 30%
+
+### 👩🏻‍💻 Why Software Engineering? 
+I find it genuinely fascinating to build software that makes people's lives easier so they can achieve better versions of themselves. There's something deeply satisfying about solving complex technical challenges in the background—making the impossible possible—while keeping the user experience simple and elegant. The puzzle of balancing technical depth with intuitive design keeps me hooked.
+
+*Feel free to check out my starred projects below :)
 ----
-### ❤️‍🔥 My Interests
+### ❤️‍🔥 Interests
 
-- Obsessed with the strategic and critical thinking behind system design and backend architecture.
-- Fascinated by how frontend and AI-powered features can enhance user experiences and improve lives.
-- Passionate about fitness, nutrition, and optimizing health for both athletic and work performance, especially how wearables and apps integrate these great habits into daily life.
+🏃‍♀️ Once a Running-hater, now a Running-addict
+🏋🏻‍♀️ Competed informally in Crossfit for a year and, a hot take - I also love Weightlifting
+  *Checkout my Workout Plan Builder 💪🏻: LLM-powered app connected to evidence-based hypertrophy research to help fitness beginners plan effective workout sessions → 🔗 Try it here*
+  
+🕹️ Board games, especially with competitive friends 
+☕ Making and drinking coffee ( sometimes, at a concerning level)
 
   
 -----
@@ -42,8 +51,9 @@ I am working on this vision through multiple ways:
 ![SQL](https://img.shields.io/badge/SQL-6A0DAD?style=flat&logo=mysql&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-6A0DAD?style=flat&logo=css3&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-6A0DAD?style=flat&logo=html5&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-6A0DAD?style=flat&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/Java-6A0DAD?style=flat&logo=java&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-6A0DAD?style=flat&logo=typescript&logoColor=white)  
+![Java with wpilib ]
 
 
 ### Frameworks & Tools  
@@ -51,7 +61,6 @@ I am working on this vision through multiple ways:
 ![Git](https://img.shields.io/badge/Git-6A0DAD?style=flat&logo=git&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-6A0DAD?style=flat&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-6A0DAD?style=flat&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-6A0DAD?style=flat&logo=firebase&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-6A0DAD?style=flat&logo=amazonaws&logoColor=white)  
 ![React Native](https://img.shields.io/badge/React%20Native-6A0DAD?style=flat&logo=react&logoColor=white)  
 
@@ -63,7 +72,7 @@ I am working on this vision through multiple ways:
 
 ---
 
-## 📫 Contact Me
+## 📫 Interested in collaborating or have an internship opportunity? Happy to chat :D
 
 ![Email](https://img.shields.io/badge/Email-wu@uni.minerva.edu-6A0DAD?style=flat&logo=gmail&logoColor=white)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tatiane_Wu_Li-6A0DAD?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tatiane-wu-li/)](https://www.linkedin.com/in/tatiane-wu-li/)
