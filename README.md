@@ -51,9 +51,10 @@ I find it genuinely fascinating to build software that makes people's lives easi
 ![SQL](https://img.shields.io/badge/SQL-6A0DAD?style=flat&logo=mysql&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-6A0DAD?style=flat&logo=css3&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-6A0DAD?style=flat&logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/Java-6A0DAD?style=flat&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-6A0DAD?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6A0DAD?style=flat&logo=typescript&logoColor=white)  
-![Java with wpilib ]
+![Java (WPILib)](https://img.shields.io/badge/Java-WPILib-6A0DAD?style=flat&logo=java&logoColor=white)
+
 
 
 ### Frameworks & Tools  
