@@ -18,8 +18,11 @@ Check out my [Tech Stack](#-tech-stack)
 #### 1. Act fast, learn fast
 
 - 💻 Learned **frontend and full-stack from scratch** to build an earnings call summarizer in 1 month, saving each analyst 10 hours weekly [🔗](https://github.com/Tatiwuli/financial-summarizer)
+
 - 🕸️ Taught myself **Python** and created a **web scraper** that saved user researchers 45+ hours and 90% of their budget per research cycle [🔗](https://github.com/Tatiwuli/AI_Analytics_Platform_Demo)
+
 - 🤖 **Learned to program an robot** with Java for WPILIB library, winning the Innovation in Control Award at FIRST Robotics Competition 2022 in Istanbul, Turkey with my former robotics team #1602 [🔗](https://github.com/Tatiwuli/command-based-2022)
+
 - **💬 Fluent in 4 languages** (Oi! Hola! 你好! Hi!), allowing me to work in freelancing, NGOs and companies across four countries
 
 #### 2. Engineer with PM skills 
