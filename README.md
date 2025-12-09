@@ -23,15 +23,15 @@ Check out my [Tech Stack](#-tech-stack)
 
 - 🤖 **Learned to program an robot** with Java for WPILIB library, winning the Innovation in Control Award at FIRST Robotics Competition 2022 in Istanbul, Turkey with my former robotics team #1602 [🔗](https://github.com/Tatiwuli/command-based-2022)
 
-- **💬 Fluent in 4 languages** (Oi! Hola! 你好! Hi!), allowing me to work in freelancing, NGOs and companies across four countries
+- 💬 Fluent in **4 languages** (Oi! Hola! 你好! Hi!), allowing me to work in freelancing, NGOs and companies across four countries
 
 #### 2. Engineer with PM skills 
 
-- Led product ideation and prototyping in <48 hours at 8 hackathons → won 7 🏆 (NASA Space Apps Global Finalist, 3rd @ Health CalHacks UC Berkeley)
+- Led product ideation and prototyping in <48 hours at 8 hackathons → **won 7** 🏆 (NASA Space Apps Global Finalist, 3rd @ Health CalHacks UC Berkeley)
 
-- Joined design from 0 to 1 in all my internship projects—from initial user research to shipped features
+- Joined **design from 0 to 1** in all my internship projects—from initial user research to shipped features
 
-- At a data analytics internship, worked closely with the product team to redesign a booking feature projected to increase booking rates by 30%
+- At a **data analytics** internship, worked closely with the product team to redesign a booking feature projected to increase booking rates by 30%
 
 ### 👩🏻‍💻 Why Software Engineering? 
 I find it fascinating to build software that makes people's lives easier so they can achieve better versions of themselves. There's something deeply satisfying about solving complex technical challenges in the background—making the impossible possible—while keeping the user experience simple and elegant. The puzzle of balancing technical depth with intuitive design is challenging but FUN!
