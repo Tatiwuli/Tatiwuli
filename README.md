@@ -7,7 +7,7 @@
 Software Engineer who builds to solve real problems, not just tech for tech's sake. I work closely with users to design and ship end-to-end applications that actually make their lives easier.
 
 Currently at Minerva University  (Class of 2027), rotating through 6 countries each semester while working on tech projects with local business 🌍. My main background in Software Engineering includes: API development, ETL pipelines, full-stack development with TypeScript & Python, and product thinking.
-Check out my [Tech Stack here](## 🛠 Tech Stack) 
+Check out my [Tech Stack here](#-tech-stack)
 
 ---
 
@@ -15,11 +15,11 @@ Check out my [Tech Stack here](## 🛠 Tech Stack)
 
 #### 1. Act fast, learn fast
 
-- 💻 Learned **frontend and full-stack from scratch** to build an earnings call summarizer in 1 month, saving each analyst 10 hours weekly [🔗Checkout here](!https://github.com/Tatiwuli/financial-summarizer)
-- 🕸️ Taught myself **Python** and created a **web scraper** that saved user researchers 45+ hours and 90% of their budget per research cycle → [🔗Checkout here](!https://github.com/Tatiwuli/AI_Analytics_Platform_Demo)
-- 🤖 **Learned to program an robot** with Java for WPILIB library, winning the Innovation in Control Award at FIRST Robotics Competition 2022 in Istanbul, Turkey with my former robotics team #1602 → [🔗Checkout here](!https://github.com/Tatiwuli/command-based-2022)
+- 💻 Learned **frontend and full-stack from scratch** to build an earnings call summarizer in 1 month, saving each analyst 10 hours weekly [🔗Checkout here](https://github.com/Tatiwuli/financial-summarizer)
+- 🕸️ Taught myself **Python** and created a **web scraper** that saved user researchers 45+ hours and 90% of their budget per research cycle → [🔗Checkout here](https://github.com/Tatiwuli/AI_Analytics_Platform_Demo)
+- 🤖 **Learned to program an robot** with Java for WPILIB library, winning the Innovation in Control Award at FIRST Robotics Competition 2022 in Istanbul, Turkey with my former robotics team #1602 → [🔗Checkout here](https://github.com/Tatiwuli/command-based-2022)
 
-- **💬 Polyglot** (Oi! Hola! 你好! Hi!)  that allowed me to work in freelancing, NGOs and companies across four countries
+- **💬 Fluent in 4 languages** (Oi! Hola! 你好! Hi!), allowing me to work in freelancing, NGOs and companies across four countries
 
 #### 2. Engineer with PM skills 
 
@@ -36,7 +36,7 @@ I find it genuinely fascinating to build software that makes people's lives easi
 
 🏃‍♀️ Once a Running-hater, now a Running-addict
 🏋🏻‍♀️ Competed informally in Crossfit for a year and, a hot take - I also love Weightlifting
-  *Checkout my Workout Plan Builder 💪🏻: LLM-powered app connected to evidence-based hypertrophy research to help fitness beginners plan effective workout sessions → 🔗 Try it here*
+  *Checkout my Workout Plan Builder 💪🏻: LLM-powered app connected to evidence-based hypertrophy research to help fitness beginners plan effective workout sessions → 🔗 [Try it here](https://workout-builder-one.vercel.app/)*
   
 🕹️ Board games, especially with competitive friends 
 ☕ Making and drinking coffee ( sometimes, at a concerning level)
